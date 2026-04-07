@@ -1,0 +1,4 @@
+[
+  {"temperature": 320, "pressure": 120, "flow": 5000},
+  {"temperature": 1500, "pressure": 50, "flow": 3000}
+]
