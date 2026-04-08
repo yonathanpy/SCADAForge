@@ -179,11 +179,10 @@ repository contains only reduced, safe-to-publish surface:
 
 ## summary
 
-SCADAForge delivers deterministic monitoring and anomaly detection for SCADA networks:
+SCADAForge
 
-capture → parse → detect → export
+High-assurance SCADA surface monitoring and anomaly signaling framework.
 
-* fully controlled, passive observation
-* no sensitive code exposed
-* deterministic behavior
-* safe for public sharing
+Monitors ICS/OT network segments without retaining operational payloads
+Flags deviations in device communication patterns
+Designed for controlled industrial network deployments
