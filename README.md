@@ -6,11 +6,6 @@ high-assurance SCADA surface monitoring and defensive tooling for industrial con
 
 designed for controlled environments, real-time anomaly detection, and signal enforcement without exposing critical ICS/OT logic
 
-no payload interception  
-no signature databases  
-no operational secrets  
-full control over monitored surfaces while remaining safe for public release  
-
 ---
 
 ## objective
